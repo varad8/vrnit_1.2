@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Geologica:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geologica:wght@300&family=Merienda:wght@800&display=swap");
+.circle-animation {
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.main-circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #00171f;
+  z-index: 1;
+}
+
+.small-circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  animation: circleAnimation 4s linear infinite;
+  z-index: 2;
+}
+
+.outer-circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  border: 2px solid rgb(255, 255, 255); /* Add border properties */
+  z-index: 0; /* Behind the small circles */
+}
+.font1 {
+  font-family: "Geologica", sans-serif;
+  font-family: "Merienda", cursive;
+}
+.font2 {
+  font-family: "Geologica", sans-serif;
+}
+@keyframes circleAnimation {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg) translateX(80px) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg) translateX(80px)
+      rotate(-360deg);
+  }
+}
