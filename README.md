@@ -1,3 +1,7 @@
+**⚠️ Warning: Without permission, you cannot use these images. ⚠️**
+
+## VRNITSOLUTION Version 1.2 updated by Varad And Rushikesh
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
