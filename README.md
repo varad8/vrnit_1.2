@@ -29,6 +29,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
+## Screenshot's
+| Name         | Page Preview                                                                                                          |
+|--------------|--------------------------------------------------------------------------------------------------------------------|
+| Home Page    | ![Home Page](https://firebasestorage.googleapis.com/v0/b/filehostingvrn.appspot.com/o/files%2F6%2F8%2F2023%2C%2010%3A42%3A11%20pm_vrn_home_1.2.png?alt=media&token=7d0bb6e5-b865-43f2-96ea-fceb0ad031b1)  |
+| Project Page | ![Project Page](https://firebasestorage.googleapis.com/v0/b/filehostingvrn.appspot.com/o/files%2F6%2F8%2F2023%2C%2010%3A45%3A46%20pm_vrnit_project_1.2.png?alt=media&token=ba8abb1a-1cda-4be3-9fb6-393587c86fe0)  |
+
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
