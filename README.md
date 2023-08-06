@@ -1,4 +1,4 @@
-**⚠️ Warning: Without permission, you cannot use these images. ⚠️**
+**⚠️ Warning: Without permission, you cannot use these Project. ⚠️**
 
 ## VRNITSOLUTION Version 1.2 updated by Varad And Rushikesh
 
